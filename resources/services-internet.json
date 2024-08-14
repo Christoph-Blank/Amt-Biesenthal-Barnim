@@ -2,7 +2,7 @@
     {
         "id": "Wanderweg_Froschmuehle_L",
         "name": "Wanderweg_Froschmuehle_L",
-        "url": "/resources/GeoJson/Wanderweg_Froschmuehle.geojson",
+        "url": "/Amt-Biesenthal-Barnim/resources/GeoJson/Wanderweg_Froschmuehle.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -19,7 +19,7 @@
     {
         "id": "Wanderweg_an_der_Muellkute_L",
         "name": "Wanderweg_an_der_Muellkute_L",
-        "url": "/resources/GeoJson/Wanderweg_an_der_Muellkute.geojson",
+        "url": "/Amt-Biesenthal-Barnim/resources/GeoJson/Wanderweg_an_der_Muellkute.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -34,7 +34,7 @@
     {
         "id": "Wanderweg_Querfeldein_L",
         "name": "Wanderweg_Querfeldein_L",
-        "url": "/resources/GeoJson/Wanderweg_Querfeldein.geojson",
+        "url": "/Amt-Biesenthal-Barnim/resources/GeoJson/Wanderweg_Querfeldein.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -49,7 +49,7 @@
     {
         "id": "Wanderweg_Schloss-Trampe_L",
         "name": "Wanderweg_Schloss-Trampe_L",
-        "url": "/resources/GeoJson/Wanderweg_Schloss-Trampe.geojson",
+        "url": "/Amt-Biesenthal-Barnim/resources/GeoJson/Wanderweg_Schloss-Trampe.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -64,7 +64,7 @@
     {
         "id": "Wanderweg_Trampe-Kruge_L",
         "name": "Wanderweg_Trampe-Kruge_L",
-        "url": "/resources/GeoJson/Wanderweg_Trampe-Kruge.geojson",
+        "url": "/Amt-Biesenthal-Barnim/resources/GeoJson/Wanderweg_Trampe-Kruge.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -79,7 +79,7 @@
     {
         "id": "FF_Pkt",
         "name": "FF_Pkt",
-        "url": "/resources/GeoJson/Feuerwachen.geojson",
+        "url": "/Amt-Biesenthal-Barnim/resources/GeoJson/Feuerwachen.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -100,7 +100,7 @@
     {
         "id": "Hydrant_Pkt",
         "name": "Hydrant_Pkt",
-        "url": "/resources/GeoJson/Hydrant.geojson",
+        "url": "/Amt-Biesenthal-Barnim/resources/GeoJson/Hydrant.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -116,7 +116,7 @@
     {
         "id": "Wasserentnahmestelle_Pkt",
         "name": "Wasserentnahmestelle_Pkt",
-        "url": "/resources/GeoJson/Wasserentnahmestelle.geojson",
+        "url": "/Amt-Biesenthal-Barnim/resources/GeoJson/Wasserentnahmestelle.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -131,7 +131,7 @@
     {
         "id": "Wassertank_Zisterne_Pkt",
         "name": "Wassertank_Zisterne_Pkt",
-        "url": "/resources/GeoJson/Wassertank_Zisterne.geojson",
+        "url": "/Amt-Biesenthal-Barnim/resources/GeoJson/Wassertank_Zisterne.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
