@@ -1,0 +1,378 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-02-29T13:41:14Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/231113835",
+        "building": "yes",
+        "emergency": "water_tank"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.5434915,
+              52.7802845
+            ],
+            [
+              13.5435941,
+              52.7802455
+            ],
+            [
+              13.5436548,
+              52.7803039
+            ],
+            [
+              13.5435522,
+              52.7803429
+            ],
+            [
+              13.5434915,
+              52.7802845
+            ]
+          ]
+        ]
+      },
+      "id": "way/231113835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/970682736",
+        "basin": "retention",
+        "emergency": "water_tank",
+        "landuse": "basin"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.5167482,
+              52.7979086
+            ],
+            [
+              13.5167724,
+              52.7979026
+            ],
+            [
+              13.5167918,
+              52.7978859
+            ],
+            [
+              13.5168341,
+              52.7978559
+            ],
+            [
+              13.5169119,
+              52.797849
+            ],
+            [
+              13.5169709,
+              52.7978725
+            ],
+            [
+              13.5169997,
+              52.7979269
+            ],
+            [
+              13.5169561,
+              52.7979788
+            ],
+            [
+              13.5168777,
+              52.7979946
+            ],
+            [
+              13.516818,
+              52.7979869
+            ],
+            [
+              13.5167764,
+              52.7980027
+            ],
+            [
+              13.5167482,
+              52.7980311
+            ],
+            [
+              13.5166939,
+              52.7980518
+            ],
+            [
+              13.5166296,
+              52.7980534
+            ],
+            [
+              13.5165786,
+              52.7980416
+            ],
+            [
+              13.5165404,
+              52.7980088
+            ],
+            [
+              13.5165397,
+              52.7979865
+            ],
+            [
+              13.5165404,
+              52.7979646
+            ],
+            [
+              13.5165236,
+              52.7979435
+            ],
+            [
+              13.516527,
+              52.7979208
+            ],
+            [
+              13.5165571,
+              52.7979074
+            ],
+            [
+              13.5166242,
+              52.7979009
+            ],
+            [
+              13.5166966,
+              52.7979058
+            ],
+            [
+              13.5167482,
+              52.7979086
+            ]
+          ]
+        ]
+      },
+      "id": "way/970682736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1036300700",
+        "emergency": "water_tank",
+        "landuse": "reservoir",
+        "natural": "water",
+        "water": "reservoir"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.6098079,
+              52.6390136
+            ],
+            [
+              13.6098066,
+              52.6388903
+            ],
+            [
+              13.610037,
+              52.6388894
+            ],
+            [
+              13.6100383,
+              52.6390127
+            ],
+            [
+              13.6098079,
+              52.6390136
+            ]
+          ]
+        ]
+      },
+      "id": "way/1036300700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6298110746",
+        "description": "Brunnen ",
+        "emergency": "water_tank",
+        "survey:date": "2019-02-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9265174,
+          52.8394064
+        ]
+      },
+      "id": "node/6298110746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6298119590",
+        "description": "Brunnen",
+        "emergency": "water_tank",
+        "survey:date": "2019-02-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9069211,
+          52.8428852
+        ]
+      },
+      "id": "node/6298119590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6298176623",
+        "description": "Brunnen ",
+        "emergency": "water_tank",
+        "survey:date": "2019-02-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9616704,
+          52.9123642
+        ]
+      },
+      "id": "node/6298176623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7340307390",
+        "emergency": "water_tank",
+        "survey:date": "2020-03-28",
+        "water_volume": "90000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4442207,
+          52.7070975
+        ]
+      },
+      "id": "node/7340307390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7433197136",
+        "emergency": "water_tank",
+        "survey:date": "2020-04-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3317536,
+          52.772749
+        ]
+      },
+      "id": "node/7433197136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7800205572",
+        "description": "Wasserblase im Zaun, 2xB",
+        "emergency": "water_tank",
+        "survey:date": "2020-08-10",
+        "water_volume": "120000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6775707,
+          52.7593766
+        ]
+      },
+      "id": "node/7800205572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8331046533",
+        "emergency": "water_tank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4823042,
+          52.9502151
+        ]
+      },
+      "id": "node/8331046533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9026348561",
+        "emergency": "water_tank",
+        "water_tank:volume": "200m³"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7714642,
+          52.8467904
+        ]
+      },
+      "id": "node/9026348561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9083614722",
+        "emergency": "water_tank",
+        "water_tank:volume": "160m³"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8258702,
+          52.8454328
+        ]
+      },
+      "id": "node/9083614722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9865502229",
+        "emergency": "water_tank",
+        "water_tank:volume": "22m³"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8475558,
+          52.8271882
+        ]
+      },
+      "id": "node/9865502229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10934754847",
+        "description": "Zisterne mit 2x A-Sauganschluss",
+        "emergency": "water_tank",
+        "survey:date": "2023-05-28",
+        "water_tank:volume": "unbekannt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.670935,
+          52.6857939
+        ]
+      },
+      "id": "node/10934754847"
+    }
+  ]
+}

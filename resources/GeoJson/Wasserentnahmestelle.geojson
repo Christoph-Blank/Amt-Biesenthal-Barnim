@@ -1,0 +1,277 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-02-29T13:31:57Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6298274813",
+        "description": "Fluss",
+        "emergency": "suction_point",
+        "survey:date": "2019-02-24",
+        "water_source": "river"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8235956,
+          52.8672332
+        ]
+      },
+      "id": "node/6298274813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6968529849",
+        "description": "A-Sauganschluß",
+        "emergency": "suction_point",
+        "survey:date": "2019-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.668274,
+          52.7335074
+        ]
+      },
+      "id": "node/6968529849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6992577964",
+        "description": "Betonfläche am See",
+        "emergency": "suction_point",
+        "name": "Kleiner Wukensee",
+        "survey:date": "2019-11-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6026217,
+          52.7778967
+        ]
+      },
+      "id": "node/6992577964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7011378711",
+        "description": "Löschwasserentnahmestelle, Wasserbecken mit Brunnen und Saugrohr",
+        "emergency": "suction_point",
+        "name": "Telekom Objekt",
+        "survey:date": "2019-11-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6498209,
+          52.7773344
+        ]
+      },
+      "id": "node/7011378711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7321417771",
+        "description": "Ansaugstelle",
+        "emergency": "suction_point",
+        "survey:date": "2020-03-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6687036,
+          52.7242955
+        ]
+      },
+      "id": "node/7321417771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7321425780",
+        "description": "Löschwasserstelle",
+        "emergency": "suction_point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6583488,
+          52.7216223
+        ]
+      },
+      "id": "node/7321425780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7321439762",
+        "description": "Brunnen 800P",
+        "emergency": "suction_point",
+        "survey:date": "2020-03-23",
+        "water_source": "groundwater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6639984,
+          52.7208696
+        ]
+      },
+      "id": "node/7321439762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7800267054",
+        "description": "An der Gebäudeecke",
+        "emergency": "suction_point",
+        "survey:date": "2020-08-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6747859,
+          52.7462646
+        ]
+      },
+      "id": "node/7800267054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8283651204",
+        "description": "Wasserentnahmestelle aus Gewässer ",
+        "emergency": "suction_point",
+        "name": "Pöhlitzbrück",
+        "survey:date": "2021-01-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.629216,
+          52.7936992
+        ]
+      },
+      "id": "node/8283651204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8919603205",
+        "emergency": "suction_point",
+        "note": "Saugschacht vorhanden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7682121,
+          52.8421823
+        ]
+      },
+      "id": "node/8919603205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9083614723",
+        "emergency": "suction_point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8257602,
+          52.8455252
+        ]
+      },
+      "id": "node/9083614723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9083641988",
+        "emergency": "suction_point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7778586,
+          52.8459966
+        ]
+      },
+      "id": "node/9083641988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9741906979",
+        "emergency": "suction_point",
+        "survey:date": "2022-05-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.63244,
+          52.7225616
+        ]
+      },
+      "id": "node/9741906979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9748040667",
+        "emergency": "suction_point",
+        "survey:date": "2022-05-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6392501,
+          52.7163114
+        ]
+      },
+      "id": "node/9748040667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9905724283",
+        "emergency": "suction_point",
+        "image": "https://i.imgur.com/cQ5qT0d.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7698143,
+          52.8428728
+        ]
+      },
+      "id": "node/9905724283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10934786454",
+        "description": "mit Tiefpumpe",
+        "emergency": "suction_point",
+        "name": "Löschwasserbrunnen",
+        "survey:date": "2023-05-28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6844909,
+          52.6769057
+        ]
+      },
+      "id": "node/10934786454"
+    }
+  ]
+}
