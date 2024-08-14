@@ -262,7 +262,7 @@
          "name" : "Luftbilder 2019-2020",
          "url" : "https://isk.geobasis-bb.de/mapproxy/dop20_2019_2021/service/wms?",
          "typ" : "WMS",
-         "layers" : "DOP20 BB-BE 2019-2021 Farbe",
+         "layers" : "dop20_bebb_2019_2021_farbe",
          "format" : "image/png",
          "version" : "1.3.0",
          "singleTile" : false,
