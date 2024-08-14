@@ -385,7 +385,7 @@
     {
          "id" : "dop01-09",
          "name" : "Luftbilder 2001-2009",
-         "url" : "https://isk.geobasis-bb.de/ows/dop40g_2001_2009_wms?",
+         "url" : "https://isk.geobasis-bb.de/mapproxy/dop40g_2001_2009/service/wms?",
          "typ" : "WMS",
          "layers" : "bb_dop40g_2001_2009",
          "format" : "image/png",
@@ -410,7 +410,7 @@
     {
          "id" : "dop92-97",
          "name" : "Luftbilder 1992-1997",
-         "url" : "https://isk.geobasis-bb.de/ows/dop50g_1992_1997_wms?",
+         "url" : "https://isk.geobasis-bb.de/mapproxy/dop50g_1992_1997/service/wms?",
          "typ" : "WMS",
          "layers" : "bb_DOP50g_1992_1997",
          "format" : "image/png",
@@ -435,7 +435,7 @@
     {
          "id" : "dop53",
          "name" : "Luftbilder 1953",
-         "url" : "https://isk.geobasis-bb.de/ows/dop100g_1953_wms",
+         "url" : "https://isk.geobasis-bb.de/mapproxy/dop100g_1953/service/wms?",
          "typ" : "WMS",
          "layers" : "bb_dop100g_1953",
          "format" : "image/png",
