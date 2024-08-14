@@ -412,7 +412,7 @@
          "name" : "Luftbilder 1992-1997",
          "url" : "https://isk.geobasis-bb.de/mapproxy/dop50g_1992_1997/service/wms?",
          "typ" : "WMS",
-         "layers" : "bb_DOP50g_1992_1997",
+         "layers" : "bb_dop50g_1992_1997",
          "format" : "image/png",
          "version" : "1.3.0",
          "singleTile" : false,
