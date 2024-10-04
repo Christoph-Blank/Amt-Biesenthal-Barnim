@@ -36,11 +36,11 @@
         "typ" : "EmailService"
 },
 {
-        "id": "mapfish_printservice_id",
-        "name": "Mapfish Print Service",
-        "url": "http://10.80.18.202:8080/print-servlet-3.28.2/print/",
-        "typ": "PrintService"
-},
+	"id": "mapfish_printservice_id",	 
+	"name": "Mapfish Print Service",
+	"url" : "https://gdi.berlin.de/services/printing/",
+	"typ" : "PrintService"
+  },
 {
 	"id" : "6",
 	"name" : "BKG OpenRoute",
