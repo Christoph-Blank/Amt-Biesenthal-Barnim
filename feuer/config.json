@@ -116,7 +116,7 @@
                         "printServiceId": "mapfish_printservice_id",
                         "filename": "Print",
                         "title": "Mein Titel",
-                        "printAppId": "mapfish-print",
+                        "printAppId": "gdibe",
                         "version": "mapfish_print_3",
                         "isLegendSelected": false,
                         "gfi": false,
